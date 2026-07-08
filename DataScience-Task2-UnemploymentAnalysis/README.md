@@ -1,6 +1,6 @@
 # 📊 Unemployment Analysis with Python
 
-## 📌 Overview
+## Overview
 
 This project is completed as **Task 2** of the **Data Science Internship** at **Oasis Infobyte**.
 
@@ -8,7 +8,7 @@ The objective of this project is to analyze unemployment trends in India using P
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - **Dataset:** Unemployment in India
 - **Source:** Kaggle
@@ -24,7 +24,7 @@ The objective of this project is to analyze unemployment trends in India using P
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Load and clean the dataset
 - Explore unemployment trends
@@ -35,7 +35,7 @@ The objective of this project is to analyze unemployment trends in India using P
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -46,7 +46,7 @@ The objective of this project is to analyze unemployment trends in India using P
 
 ---
 
-## 📈 Project Features
+## Project Features
 
 ✔ Data Loading
 
@@ -74,7 +74,7 @@ The objective of this project is to analyze unemployment trends in India using P
 
 ---
 
-## 📊 Visualizations Included
+## Visualizations Included
 
 - Region-wise Bar Chart
 - Monthly Trend Line Chart
@@ -85,7 +85,7 @@ The objective of this project is to analyze unemployment trends in India using P
 
 ---
 
-## 🚀 Results
+## Results
 
 The analysis revealed:
 
@@ -96,7 +96,7 @@ The analysis revealed:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone this repository.
 
@@ -126,7 +126,7 @@ jupyter notebook
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 DataScience-Task2-UnemploymentAnalysis/
@@ -135,12 +135,11 @@ DataScience-Task2-UnemploymentAnalysis/
 ├── unemployment.csv
 ├── README.md
 ├── requirements.txt
-└── images/
 ```
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 This project strengthened my understanding of:
 
